@@ -7,7 +7,7 @@
 
 ชื่อ-สกุล : ณัฐดนัย ติ๊บดอนจันทร์
 
-GitHub Page URL : https://cpe207-students-167.github.io/lab07-NEo0o0/
+GitHub Page URL : https://cpe207-students-167.github.io/lab07-NEo0o0/index
 
 ---
 
